@@ -25,7 +25,7 @@ EyeBlinkDetectionNonML is an application for detecting eye blinks using Vision a
 
 2. Open the `EyeBlinkDetectionNonML.xcodeproj` project in Xcode.
 
-3. Run the project on a simulator or an iOS device.
+3. Run the project on a macOS device.
 
 ## How It Works
 
